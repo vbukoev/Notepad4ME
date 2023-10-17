@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vAqcttyQI8AOD4wWQs3slKXmf+2K3M5ftLI+fCSLYmY0ChSWFgK1Q4wWUiNtG2ZV/B23ehpu/9KEKrQQ+/gTQQ==",
+  "dgSpecHash": "bcBsU5jmsI4BmFQM+MIsA2gd5CaOmeqzxvIol/yzKfu2IPNGAohS7PH5fdxjpTomf2DwPI6TfXT0ng6IcdsrNQ==",
   "success": true,
-  "projectFilePath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\Projects\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
+  "projectFilePath": "D:\\Software University\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
