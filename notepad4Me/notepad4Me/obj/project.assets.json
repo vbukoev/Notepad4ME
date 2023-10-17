@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software University\\Csharp-Education\\Csharp-Education\\Projects\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
+      "projectUniqueName": "D:\\Software University\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
       "projectName": "notepad4Me",
-      "projectPath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\Projects\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
+      "projectPath": "D:\\Software University\\Notepad4ME\\notepad4Me\\notepad4Me\\notepad4Me.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\Projects\\Notepad4ME\\notepad4Me\\notepad4Me\\obj\\",
+      "outputPath": "D:\\Software University\\Notepad4ME\\notepad4Me\\notepad4Me\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
